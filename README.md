@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Blando1114
 - 👀 I’m interested in ...
-- 🌱 I’m currently majoring in Civil Engineering (Structural engineering) minor in applied mathematics.
+- 🎓 BEng (Honour) in Civil Engineering (Structural Engineering) Minor in applied mathematics, PolyU, HK
+- 📕 MPhil in Individualized Interdisciplinary Program (Intelligent Construction and Robotics), HKUST, HK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-     You can contact me by e-mail brentsmile001@gmail.com
+     You can contact me by e-mail at hlifa@connect.ust.hk
      
 
 <!---
